@@ -58,3 +58,9 @@ The potential impact from the loss of an asset is rated as medium, because the I
 ### Controls Assessment Checklist
 |  Yes / No     | Control       |
 | ------------- |:-------------:| 
+|  No     | Least Privilege|
+|  No     | Disaster Recovery Plans|
+| Yes/No  | Password Policies |
+|  No  | Separation of Duties |
+| Yes | Firewall |
+| No | Intrusion Detection System (IDS) |
