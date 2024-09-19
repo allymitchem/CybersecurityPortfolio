@@ -64,3 +64,11 @@ The potential impact from the loss of an asset is rated as medium, because the I
 |  No  | Separation of Duties |
 | Yes | Firewall |
 | No | Intrusion Detection System (IDS) |
+| No | Backups|
+| Yes | Antivirus Software|
+|Yes/ No | Manual Monitoring, Maitenance, and Intevention for Legacy Systems |
+| No | Encryption|
+| No | Password Management System |
+| Yes | Locks (Offices, Storefront, Warehouse) |
+| Yes | Closed-Circuit Television (CCTV) Surveillance |
+| Yes | Fire Detection/Prevention (fire alarm, sprinkler system, etc.) |
