@@ -56,7 +56,7 @@ The potential impact from the loss of an asset is rated as medium, because the I
 <i> Does Botium Toys currently have this control in place?</i>
 
 ### Controls Assessment Checklist
-|  Yes / No     | Control       |
+|  Yes / No     | Control     |
 | ------------- |:-------------:| 
 |  No     | Least Privilege|
 |  No     | Disaster Recovery Plans|
@@ -72,3 +72,34 @@ The potential impact from the loss of an asset is rated as medium, because the I
 | Yes | Locks (Offices, Storefront, Warehouse) |
 | Yes | Closed-Circuit Television (CCTV) Surveillance |
 | Yes | Fire Detection/Prevention (fire alarm, sprinkler system, etc.) |
+
+### Compliance Checklist
+<i> Does Botium Toys currently adhere to this compliance best practice? </i>
+
+<ins> Payment Card Industry Data Security Standard (PCI DSS) </ins>
+
+|  Yes / No     | Best Practice |
+| ------------- |:-------------:| 
+| No    | Only authorized users have access to customers’ credit card information. |
+| No   | Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment. |
+| No | Implement data encryption procedures to better secure credit card transaction touchpoints and data. |
+| No  | Adopt secure password management policies. |
+
+<ins>General Data Protection Regulation (GDPR)</ins>
+
+|  Yes / No     | Best Practice |
+| ------------- |:-------------:| 
+|   No  | E.U. customers’ data is kept private/secured. |
+| Yes  | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
+|  No | Ensure data is properly classified and inventoried. |
+| Yes  | Enforce privacy policies, procedures, and processes to properly document and maintain data.|
+
+<ins> System and Organizations Controls (SOC type 1, SOC type 2) </ins>
+|  Yes / No     | Best Practice |
+| ------------- |:-------------:| 
+| No | User access policies are established. |
+| No | Sensitive data (PII/SPII) is confidential/private. |
+| Yes | Data integrity ensures the data is consistent, complete, accurate, and has been validated.|
+| No | Data is available to individuals authorized to access it. |
+
+
