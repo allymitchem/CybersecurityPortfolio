@@ -103,3 +103,23 @@ The potential impact from the loss of an asset is rated as medium, because the I
 | No | Data is available to individuals authorized to access it. |
 
 
+## Recommendations
+
+<i>In this section, provide recommendations, related to controls and/or compliance needs, that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture. </i>
+
+
+After reviewing Botium Toys’ security posture, we have identified critical areas that require attention at your earliest convenience to adhere to compliance standards, as well as reduce risk:
+
+1. <b>Implement Least Privilege:</b> Currently, all employees have access to internally stored data, as well as possible access to customers’ PII/SPII, including cardholder data. It should be ensured that only necessary personnel have access to sensitive data. This would also reduce the risk of unauthorized access.
+
+2. <b>Develop a Disaster Recovery Plan:</b> With the potential of Botium Toys’ expansion, it is necessary to implement a disaster recovery plan, including regular backups of critical data.  This ensures continuity of business.
+
+3. <b>Strengthen Password Management and Policies:</b> Although a policy for passwords does exist, it does not meet current minimum password complexity requirements. There is also currently no centralized password management system. Implementing a centralized password management system would enforce stronger password policies and increase efficiency for employees and vendors without the need to submit password reset requests. 
+
+4. <b>Install an IDS:</b> As Botium Toys expands, so does the attack surface. An IDS can help mitigate potential threats by alerting IT to suspicious activity.  An intrusion prevention system (IPS) may also be considered to integrate with the IDS.
+
+5. <b>Schedule Regular Legacy System Maintenance:</b> Consistent maintenance schedules should be placed for legacy systems, as well as clear documentation of the intervention methods used. These will help to ensure proper upkeep of the systems.
+
+
+
+
